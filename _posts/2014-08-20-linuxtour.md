@@ -3,7 +3,7 @@ layout: post
 title: Linux Tour 
 categories: [general, GNU/Linux ]
 tags: [ daily ]
-fullview: true
+fullview: false
 ---
 
          以前我认为 使用 LFS 是终极 Linux 高手， 高级水平， 
